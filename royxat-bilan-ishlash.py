@@ -19,3 +19,4 @@ nonushta.remove("sho'rva")
 nonushta.append("sut")
 nonushta.append("tost non")
 nonushta[0]="qaymoq va non"
+print(nonushta)
